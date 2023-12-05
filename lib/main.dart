@@ -145,7 +145,7 @@ class _ChapterState extends State<Chapter> {
             children: shloka
                 .map((e) =>
                 Container(
-                  height: 103,
+                  height: 104,
                   margin: EdgeInsets.all(10),
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(18),
